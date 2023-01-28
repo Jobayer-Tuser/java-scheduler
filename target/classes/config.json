@@ -1,0 +1,9 @@
+{
+  "processName" : "sms_api_logs",
+  "intervalType": "",
+  "interval" : 100,
+  "run_at" :"",
+  "apiUrl": "http://localhost/pushnew/smsaccelerator/index.php",
+  "processMonitorUrl" : "http://localhost/pushnew/smsaccelerator/index.php",
+  "logPath": "/var/www/html/golang_projects/"
+}
